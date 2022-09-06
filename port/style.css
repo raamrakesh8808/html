@@ -1,0 +1,13 @@
+html{background-color:rgb(255, 150, 127);}
+
+p{color: rgb(226, 43, 119);}
+.box{display:flex;background-color: rgb(5, 223, 231);margin:10px ;padding:10px ;}
+
+.grid{display:flex;background-color: #46EF01(255, 166, 0);margin: 10px;padding:10px ;flex-direction:row-reverse;}
+.item{display:flex;background-color: rgb(255, 0, 195);margin:10px ;padding:10px;}
+
+.item:hover{background-color: crimson;transform: scale(2);}
+.grid:hover{opacity:1;}
+a:visited{color: rgb(0, 0, 0);}
+
+
